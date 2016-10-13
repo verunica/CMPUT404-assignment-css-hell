@@ -1,3 +1,76 @@
-* {
-  font-family: Georgia;
+
+p {
 }
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+
+h2 {
+    font-family: "Palatin Linotype";
+    color: white;
+    border-bottom-style: solid;
+
+}
+
+img {
+
+    height: auto; 
+    width: auto; 
+    max-width: 200px; 
+    max-height: 200px;
+    float: left;
+    margin-right: 10px;
+    clear: both;
+}
+
+.top {
+    background-color: #0099cc;
+    border-top-style: solid;
+    border-color: brown;
+    border-top-width: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+#link {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+#nav {
+    background-color: #333;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.body {
+    width: 75%;
+}
+
+.facts {
+    float: right;
+    width: 25%;
+    border-style: solid;
+    height: 100%;
+    background-color: #333;
+}
+
+li {
+    color: white;
+}
+
+body{
+    background-color: #00a8db;
+    background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");
+}
+
