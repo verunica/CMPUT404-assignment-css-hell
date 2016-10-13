@@ -1,0 +1,80 @@
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+
+h2 {
+    font-family: "Palatin Linotype";
+    font-color: pink;
+    background: yellow;
+    border-style: solid;
+    border-radius: 75%;
+    border-color: pink;
+    text-align: center;
+    
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: auto;
+    width: auto;
+    text-align: center;
+    border-style: dotted;
+    border-radius: 75%;
+    border-color: pink;
+    text-align: center;
+}
+
+.top {
+    background-color: yellow;
+    border-style: dotted;
+    border-radius: 75%;
+    border-color: pink;
+    margin: 0;
+    padding: 0;
+}
+
+#link {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+#nav {
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.body {
+    width: 75%;
+    font-size: 20px;
+}
+
+.facts {
+    float: right;
+    width: 25%;
+    border-style: solid;
+    height: 100%;
+    background-color: red;
+}
+
+li {
+    color: white;
+}
+
+body{
+    background-image: url("wall-stickers-flowers-kids-2.jpg");
+    background-repeat: repeat;
+}
+

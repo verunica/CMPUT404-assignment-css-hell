@@ -1,0 +1,67 @@
+p {
+	font-family: Palatino Linotype, Georgia;
+	font-size: 16px;
+	margin-right: 5em;
+	margin-left: 5em;
+	color: #332D2D;
+  }
+
+h1,h2 {	
+	font-family: Copperplate Gothic Light, Georgia;
+	font-style: italics;
+	color: #440406;
+	text-align: center;
+	border-style: outset;
+	border-top-color: white;
+	border-bottom-color: #3E1819;
+	border-width: 5px;
+  }
+
+h3{
+	font-family: Copperplate Gothic Light, Georgia;
+	font-style: italics;
+	text-align: center;
+	color: #440406;
+}
+
+body {
+	background-image: url("paper_texture_3_by_wojtar_stock.jpg");
+   	background-size: contain;
+  }
+
+pre {
+	text-align: center;
+	font-size: 16px;
+	color: #901013;
+  }
+
+table {
+	width: 50%;
+  }
+table, th, td {
+	font-family: Palatino Linotype, Georgia;
+	border: 1px solid;
+	border-top-color: white;
+	border-bottom-color: #3E1819;
+	margin-right: 5em;
+	margin-left: 5em;
+	color: #440406;
+  }
+
+img {
+	display: block;
+	margin: auto;
+	height: auto;
+	width: auto;
+	text-align: center;
+	border: 3px solid #3E1819;
+	border-radius: 5%;
+  }
+
+div{
+	font-family: Palatino Linotype, Georgia;
+	font-size: 16px;
+	margin-right: 5em;
+	margin-left: 5em;
+	color: #332D2D;
+  }
