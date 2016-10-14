@@ -94,6 +94,13 @@ URL: https://www.transparenttextures.com/patterns/black-linen.png
 Author: Atle Mo
 Published: Transparent Textures
 
+Part 2 Citations
+================
+Title: How to Force Child Div to 100% of Parent's Div Without Specifying Parent's Height?
+URL: http://stackoverflow.com/questions/1122381/how-to-force-child-div-to-100-of-parents-div-without-specifying-parents-heigh
+Author: Travis
+Published:  © 2016 Stack Exchange Inc
+
 Collaboration
 =============
 

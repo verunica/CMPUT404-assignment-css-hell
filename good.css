@@ -78,3 +78,7 @@ body{
     background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");
 }
 
+html, body{
+	height: 100%;
+}
+
