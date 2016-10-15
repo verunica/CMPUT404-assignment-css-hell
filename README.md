@@ -28,7 +28,7 @@ paper_texture_3_by_wojtar_stock.jpg
 Title: Paper texture 3 (paper_texture_3_by_wojtar_stock.jpg)
 URL: http://wojtar-stock.deviantart.com/art/Paper-texture-3-79335330
 Author: wojtar-stock
-Published: ©2016 DeviantArt. All rights reserved
+Published: Â©2016 DeviantArt. All rights reserved
 
 
 Title: cover.jpg
@@ -84,22 +84,26 @@ div
 Part 2 CSS Assets 
 =================
 
-Title: wall-stickers-flowers-kids-2.jpg
-URL: http://www.homeofficedecoration.net/wall-stickers-flowers-kids/
-Author: unknown
-Published: © HOMEOFFICEDECORATION
+Title: wall-stickers-flowers-kids-2.jpg  
+URL: http://www.homeofficedecoration.net/wall-stickers-flowers-kids/  
+Author: unknown  
+Published: Â© HOMEOFFICEDECORATION  
 
-Title: black-linen.png
-URL: https://www.transparenttextures.com/patterns/black-linen.png
-Author: Atle Mo
-Published: Transparent Textures
+Title: black-linen.png  
+URL: https://www.transparenttextures.com/patterns/black-linen.png  
+Author: Atle Mo  
+Published: Transparent Textures  
+
+Title: 6-Board-Wood-Textures.zip  
+URL: http://www.pixeden.com/texture-packs/board-wood-textures-pack-1
+Free Reasource
 
 Part 2 Citations
 ================
 Title: How to Force Child Div to 100% of Parent's Div Without Specifying Parent's Height?
 URL: http://stackoverflow.com/questions/1122381/how-to-force-child-div-to-100-of-parents-div-without-specifying-parents-heigh
 Author: Travis
-Published:  © 2016 Stack Exchange Inc
+Published:  Â© 2016 Stack Exchange Inc
 
 Collaboration
 =============
