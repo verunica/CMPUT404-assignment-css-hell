@@ -30,14 +30,12 @@ img {
     border-top-width: 3em;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
-#link {
-    float: left;
-}
 
 li a {
-    display: block;
+    display: inline-block;
     color: white;
     text-align: center;
     padding: 14px 16px;
@@ -48,6 +46,10 @@ li a {
     margin: 0;
     padding: 0;
     overflow: hidden;
+}
+
+#nav li {
+  display: inline-block;
 }
 
 .body {
@@ -82,7 +84,6 @@ html, body{
 #interesting {
   color: black;
   text-align: center;
-  float: right;
 }
 
 #footer {
