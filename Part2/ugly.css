@@ -1,52 +1,33 @@
-
 h1 {
     text-align: center;
-    color: white;
+    font-family: Comic Sans MS;
 }
 
 
 h2 {
-    font-family: "Palatin Linotype";
-    font-color: pink;
-    background: yellow;
-    border-style: solid;
-    border-radius: 75%;
-    border-color: pink;
-    text-align: center;
-    
+    font-family: Comic Sans MS;
 
 }
 
 img {
-    display: block;
-    margin: auto;
-    height: auto;
-    width: auto;
-    text-align: center;
-    border-style: dotted;
+    border-style: solid;
     border-radius: 75%;
     border-color: pink;
     text-align: center;
-}
-
-.top {
-    background-color: yellow;
-    border-style: dotted;
-    border-radius: 75%;
-    border-color: pink;
-    margin: 0;
-    padding: 0;
-}
-
-#link {
     float: left;
 }
 
+.top {
+	background: blue;
+    text-align:center;
+}
+
+
 li a {
-    display: block;
-    color: white;
-    text-align: center;
+    display: inline-block;
+    font-family: Comic Sans MS;
     padding: 14px 16px;
+    background-color: orange;
 }
 
 #nav {
@@ -56,26 +37,41 @@ li a {
     overflow: hidden;
 }
 
+#nav li{
+	display:inline-block;
+}
+
 .body {
     width: 75%;
     font-size: 20px;
-    color: yellow;
+    font-family: Comic Sans MS;
 }
 
 .facts {
     float: right;
     width: 25%;
-    border-style: solid;
     height: 100%;
-    background-color: red;
+    background-color: yellow;
+    font-family: Comic Sans MS;
 }
 
-li {
-    color: white;
+
+html,body{
+    height: 100%;
 }
 
-body{
-    background-image: url("wall-stickers-flowers-kids-2.jpg");
-    background-repeat: repeat;
+#pink{
+    background-color:pink;
+    background-size: 30em, 30em;
+    border: solid pink;
+    border-radius: 75%;
 }
 
+
+.rainbow {
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
