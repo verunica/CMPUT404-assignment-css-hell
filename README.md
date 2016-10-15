@@ -96,7 +96,9 @@ Published: Transparent Textures
 
 Title: 6-Board-Wood-Textures.zip  
 URL: http://www.pixeden.com/texture-packs/board-wood-textures-pack-1
-Free Reasource
+Free Reasource  
+
+
 
 Part 2 Citations
 ================
@@ -104,6 +106,10 @@ Title: How to Force Child Div to 100% of Parent's Div Without Specifying Parent'
 URL: http://stackoverflow.com/questions/1122381/how-to-force-child-div-to-100-of-parents-div-without-specifying-parents-heigh
 Author: Travis
 Published:  © 2016 Stack Exchange Inc
+
+Title: How to create rainbow text in HTML & CSS & JavaScript URL: https://rainbowcoding.com/how-to-create-rainbow-text-in-html-css-javascript/ Author: unknown Published: © Rainbow Coding  
+
+Title: How to center a navigation bar with CSS or HTML? URL: http://stackoverflow.com/questions/5995405/how-to-center-a-navigation-bar-with-css-or-html Author: morgar Published: © 2016 Stack Exchange Inc  
 
 Collaboration
 =============
